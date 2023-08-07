@@ -10,7 +10,7 @@ class Button extends StatelessWidget {
   Widget build(BuildContext context) {
     return Expanded(child: 
     Container(
-      margin: EdgeInsets.only(top: 30),
+      margin: EdgeInsets.only(top: 28),
         
         child: Padding(
           padding: const EdgeInsets.all(8.0),
